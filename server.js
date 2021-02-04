@@ -1,7 +1,8 @@
 import express from 'express';
-import { students } from './students';
+import { studentList } from './students.js';
 
 const app = express();
+let students = studentList;
 let sortedBy = 'name';
 let reverseSort = false;
 

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32480100-6508-4b20-94cd-248988f92377" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/students.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students.js" beforeDir="false" afterPath="$PROJECT_DIR$/students.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +44,24 @@
       <updated>1612388985524</updated>
       <workItem from="1612388986544" duration="3479000" />
       <workItem from="1612429080761" duration="3649000" />
-      <workItem from="1612436986748" duration="65000" />
+      <workItem from="1612436986748" duration="345000" />
+      <workItem from="1612437729069" duration="87000" />
     </task>
+    <task id="LOCAL-00001" summary="added imports">
+      <created>1612437273408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612437273408</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added imports" />
+    <option name="LAST_COMMIT_MESSAGE" value="added imports" />
   </component>
 </project>
